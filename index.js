@@ -4,6 +4,6 @@ function happyHolidays() {
   return "Happy Holidays!"
 }
 
-function happyHolidaysTo(John) {
-  return ``
+function happyHolidaysTo(name) {
+  return `Happy holidays, ${John}`
 }
